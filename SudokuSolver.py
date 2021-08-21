@@ -84,7 +84,7 @@ grid = [
 ]
 
 print("Unsolved: ", '\n')
-print(printFunction(grid))
+print(printFunction(grid)) #Unsolved grid
 solve(grid)
 print("Solved: \n")
-printFunction(grid)
+printFunction(grid) #Solved grid
